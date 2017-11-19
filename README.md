@@ -1,5 +1,3 @@
-# Kmeans
-The first step of machine learning
 # explain:
   According to analyse the last 4 times European Cup ranking of 16 countries, we could divide the football level of different countries<br>
   ![](examples.png)<br>
