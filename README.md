@@ -7,6 +7,7 @@ The first step of machine learning
   Group 1:England France<br>
   Group 2:Switzerland, Poland, Wales, Northern Ireland, Hungray, Belgium, Slovakia, Ireland and Iceland<br>
   Group 3:Portugal, German, Croatia, Italy and Spain<br>
+  <br>
 The most surprising results is Croatia. Although Croatia is not storng as other group 3 countries, with smooth results it is better than England and France.<br>
 
 # implement flow：
