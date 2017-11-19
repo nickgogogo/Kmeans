@@ -4,14 +4,15 @@ The first step of machine learning
   According to analyse the last 4 times European Cup ranking of 16 countries, we could divide the football level of different countries<br>
   ![](examples.png)<br>
   This program just clustered for 3 groups, the group name dont equal the football team ranking<br>
-  <br>
-  ![](results.png)<br>
-  Group 1:England France<br>
+  
+### Results
+Group 1:England France<br>
   Group 2:Switzerland, Poland, Wales, Northern Ireland, Hungray, Belgium, Slovakia, Ireland and Iceland<br>
   Group 3:Portugal, German, Croatia, Italy and Spain<br>
   <br>
 The most surprising results is Croatia. Although Croatia is not storng as other group 3 countries, with smooth results it is better than England and France.<br>
-
+<br>
+  ![](results.png)<br>
 # implement flow：
   1. read data in dataset<br>
   2. Randomly produce init-clusters<br>
