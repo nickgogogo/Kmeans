@@ -2,10 +2,10 @@
 The first step of machine learning
 # explain:
   According to analyse the last 4 times European Cup ranking of 16 countries, we could divide the football level of different countries<br>
-  ![](examples)<br>
+  ![](examples.png)<br>
   This program just clustered for 3 groups, the group name dont equal the football team ranking<br>
   <br>
-  ![](results)<br>
+  ![](results.png)<br>
   Group 1:England France<br>
   Group 2:Switzerland, Poland, Wales, Northern Ireland, Hungray, Belgium, Slovakia, Ireland and Iceland<br>
   Group 3:Portugal, German, Croatia, Italy and Spain<br>
