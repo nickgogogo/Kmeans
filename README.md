@@ -4,7 +4,7 @@
   I believe when he knows my logical analysis, he would apologize :) <br/>
   </br>
   
-  At the beginning, I picked the England and other top 15 teams of 2014 European Cup to analyze. Those data from the website of FIFA.<br>
+  At the beginning, I picked the England and other top 15 teams of 2014 European Cup to analyze their performance in 2002, 2006, 2010 and 2014. Those data from the website of FIFA.<br>
   The ranking is shown in this image<br>
   ![](examples.png)<br>
   There is the ranking of thses 17 courties. In the programming, we need to delete the explanation and String name.<br/> 
